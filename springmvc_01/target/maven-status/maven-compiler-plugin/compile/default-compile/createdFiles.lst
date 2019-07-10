@@ -1,0 +1,4 @@
+cn\edu\cuit\mapper\UserMapper.class
+cn\edu\cuit\controller\GoodsController.class
+cn\edu\cuit\controller\HelloWorldController.class
+cuit\edu\cn\mybatis\entity\User.class
